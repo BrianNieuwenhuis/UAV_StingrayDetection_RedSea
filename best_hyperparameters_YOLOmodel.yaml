@@ -1,0 +1,25 @@
+# 200/200 iterations complete ✅ (655998.14s)
+# Results saved to tune/crop1344_def_batch16/a100_200iter
+# Best fitness=0.80346 observed at iteration 187
+# Best fitness metrics are {'metrics/precision(B)': 0.97851, 'metrics/recall(B)': 0.92485, 'metrics/mAP50(B)': 0.95976, 'metrics/mAP50-95(B)': 0.7861, 'val/box_loss': 0.01925, 'val/cls_loss': 0.2838, 'val/dfl_loss': 1.20463, 'fitness': 0.80346}
+# Best fitness model is tune/crop1344_def_batch16/train187
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.00041
+lrf: 0.02561
+momentum: 0.78831
+weight_decay: 0.00014
+warmup_epochs: 5.0
+warmup_momentum: 0.87015
+box: 0.18567
+cls: 0.32438
+hsv_h: 0.04456
+hsv_s: 0.44736
+hsv_v: 0.65986
+translate: 0.08957
+scale: 0.57378
+shear: 1.00509
+perspective: 0.00035
+mosaic: 0.9068
+mixup: 0.0152
+copy_paste: 0.01282
