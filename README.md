@@ -3,7 +3,7 @@ Code from: Nieuwenhuis, Brian O., Charlotte Turlier, Ioana-Andreea Ciocănaru, B
 
 This repository contains the following files:
 
-- best_hyperparameters_YOLOmodel.yaml: 
+	- best_hyperparameters_YOLOmodel.yaml: 
 YAML file specifying the hyperparameters that generated the best results during 200 iterations of model tuning.
 
 	- best_YOLOmodel.pt: 
